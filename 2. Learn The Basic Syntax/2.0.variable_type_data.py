@@ -6,7 +6,7 @@ Berikut saya contohkan bagaimana cara menamai suatu vaiable
 
 """
 Rule:
-· Berikan variable nama yang mudah dimengerti developer lain
+· Berikan variable nama yang mudah di mengerti developer lain
 · Jangan namai variable terlalu singkat
 """
 
