@@ -66,3 +66,7 @@ print(f'luas : {rumah_luas} m2') # 90
 rumah_panjang = 20
 rumah_luas = rumah_panjang * rumah_lebar # 20 * 10
 print(f'luas setelah variable di ganti: {rumah_luas} m2') # 200
+
+''' Inti dari Variable adalah
+--- Cara untuk menamai dan menyimpan suatu data sehingga mempermudah dev lain membacanya
+'''

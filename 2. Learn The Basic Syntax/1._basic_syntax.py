@@ -34,3 +34,7 @@ print(nama)
 print(panjang)
 print(lebar)
 
+
+''' Inti dari basic syntax adalah
+--- Mengerti cara deklarasi suatu variable atau inisialisasi suatu variable
+'''

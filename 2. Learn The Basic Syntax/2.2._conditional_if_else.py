@@ -61,3 +61,7 @@
 #     print('Ga ada sampah di kategori batu ternyata')
     
 """ Contoh lain? Coba aja tes di Hacker Rank"""
+
+''' Inti dari If Else adalah 
+ --- Mendapatkan/Menjalankan sesuati jika Kondisi Terpenuhi atau tidak terpenuhis ---
+ '''
