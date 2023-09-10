@@ -51,5 +51,7 @@ dict_kosong['alat tulis'] = 'pulpen,penghapus'
 # print(dict_kosong)
 
 
-
+''' Inti dari Array & Dictionary adalah
+--- Cara menyimpan suatu data atau variable
+'''
 
