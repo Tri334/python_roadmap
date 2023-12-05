@@ -33,7 +33,7 @@
 
 # ini_array = ['babi','ayam','koeda']
 
-# variable_yang_dicari = 'koeda'
+# variable_yang_dicari = 'anjing'
 # if variable_yang_dicari in ini_array:
 #     print('Ada koeda di array itu!')
 #     if 'babi' in ini_array:

@@ -15,17 +15,17 @@ Cara akses array dengan perulangan (looping)
 # 1 dengan mengakses index
 # buat variable untuk mengetahui panjang array
 """ Uncomment untuk melihat contoh"""
-# panjang_arr = len(persegi_array)
-# print(f'panjang array: {panjang_arr}')
+panjang_arr = len(persegi_array)
+print(f'panjang array: {panjang_arr}')
 
-# for index in range(panjang_arr):
-#     print(f'Index: {index}')
-#     print(f'Value: {persegi_array[index]}')
-#     print(' ')
-# # 2 mengakses langsung isi dalam array
-# for item in persegi_array:
-#     print(f'Value: {persegi_array}')
-#     print(' ')
+for index in range(panjang_arr):
+    print(f'Index: {index}')
+    print(f'Value: {persegi_array[index]}')
+    print(' ')
+# 2 mengakses langsung isi dalam array
+for item in persegi_array:
+    print(f'Value: {persegi_array}')
+    print(' ')
 """----"""
     
 """
